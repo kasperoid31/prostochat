@@ -1,15 +1,20 @@
 <div align="center">
 
-<!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК (ASCII + эмодзи) -->
+<!-- АВАТАРКА -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7D44A&center=true&vCenter=true&width=500&lines=%F0%9F%93%96+%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%B0%D1%82;%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA+%E2%80%94+%D0%94%D1%80%D1%83%D0%B3%D1%83;04.01.2025+%E2%80%94+11.07.2026" alt="просточат" />
+<img src="https://github.com/kasperoid31/prostochat/blob/main/assets/logo-jule.jpg?raw=true" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+
+<!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7D44A&center=true&vCenter=true&width=500&lines=%F0%9F%93%96+%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%B0%D1%82;%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA+%E2%80%94+%D0%94%D1%80%D1%83%D0%B3%D1%83;04.01.2025+%E2%80%94+11.07.2026" alt="просточат">
 
 <!-- РАЗДЕЛИТЕЛЬ -->
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 </div>
 
-<!-- О КНИГЕ -->
+---
 
 ## 📖 О чём эта книга
 
@@ -34,7 +39,7 @@
 </tr>
 </table>
 
-<!-- ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ -->
+---
 
 ## ⚙️ Технические детали
 
@@ -67,7 +72,7 @@
 </tr>
 </table>
 
-<!-- СОДЕРЖАНИЕ -->
+---
 
 ## 📚 Содержание
 
@@ -75,54 +80,32 @@
 <tr>
 <td width="50%">
 
-### Часть первая
-**Как всё началось**
-
-### Часть вторая  
-**Как тут жили**
-
-### Часть третья
-**Люди**
+**Часть первая** — Как всё началось  
+**Часть вторая** — Как тут жили  
+**Часть третья** — Люди  
 
 </td>
 <td width="50%">
 
-### Часть четвёртая
-**Войны**
-
-### Часть пятая
-**Конец и начало**
+**Часть четвёртая** — Войны  
+**Часть пятая** — Конец и начало  
 
 </td>
 </tr>
 </table>
 
-<!-- СКАЧАТЬ -->
+---
 
-## 📥 Скачать
+## 📥 Скачать книгу
 
-<table>
-<tr>
-<td align="center">
-
-<a href="./prostochat.pdf">
-<img src="https://img.shields.io/badge/PDF-скачать-F40D12?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-</a>
-
-</td>
-<td align="center">
-
-<a href="./prostochat.md">
-<img src="https://img.shields.io/badge/Markdown-читать-000000?style=for-the-badge&logo=markdown&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
+| Формат | Ссылка |
+|--------|--------|
+| 📄 **PDF** | [Скачать PDF](https://github.com/kasperoid31/prostochat/blob/main/assets/prostochat.pdf?raw=true) |
+| 📝 **Markdown** | [prostochat.md](./prostochat.md) *(скоро)* |
 
 > Рекомендуется читать в PDF — в нём сохранена оригинальная вёрстка.
 
-<!-- ЛЮДИ -->
+---
 
 ## 👥 О ком эта книга
 
@@ -150,7 +133,7 @@
 
 </details>
 
-<!-- ЖИВАЯ КНИГА -->
+---
 
 ## 📝 Живая книга
 
@@ -162,7 +145,7 @@
 
 **И это нормально.**
 
-<!-- КАК ПОМОЧЬ -->
+---
 
 ## 🤝 Как помочь
 
@@ -200,25 +183,25 @@
 | **Открыть Issue** | Для тех, кто не умеет, но хочет помочь |
 | **Написать в Telegram** | Для всех остальных |
 
-<!-- ВАЖНО -->
+---
 
 ## 🙏 Важно
 
 > Эта книга — про живых людей. И про тех, кого уже нет.  
 > Пожалуйста, когда ты дополняешь историю или делишься ей — делай это с уважением. Это не просто текст. Это чья-то жизнь.
 
-<!-- ЛИЦЕНЗИЯ -->
+---
 
 ## 📜 Лицензия
 
-<a href="./LICENSE">
+<a href="https://github.com/kasperoid31/prostochat/blob/main/LICENSE">
 <img src="https://img.shields.io/badge/License-The%20Unlicense-9B59B6?style=for-the-badge&logo=unlicense&logoColor=white">
 </a>
 
 Эта книга находится в **общественном достоянии**.  
 Вы можете свободно читать, копировать, распространять и делиться ею.
 
-<!-- КОНТАКТЫ -->
+---
 
 ## 📬 Контакты
 
@@ -236,7 +219,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F7D44A&center=true&vCenter=true&width=600&lines=%D0%A1%D0%9C%D0%9E%D0%A2%D0%A0%D0%98%D0%A2%D0%95%2C+%D0%94%D0%A0%D0%A3%D0%97%D0%AC%D0%AF+%D0%9D%D0%90+%D0%92%D0%95%D0%9A!!!!!;%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%B0%D1%82;04.01.2025+%E2%80%94+11.07.2026" alt="финал" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F7D44A&center=true&vCenter=true&width=600&lines=%D0%A1%D0%9C%D0%9E%D0%A2%D0%A0%D0%98%D0%A2%D0%95%2C+%D0%94%D0%A0%D0%A3%D0%97%D0%AC%D0%AF+%D0%9D%D0%90+%D0%92%D0%95%D0%9A!!!!!;%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%B0%D1%82;04.01.2025+%E2%80%94+11.07.2026" alt="финал">
 
 *Кто написал эту книгу — пусть останется маленькой тайной.*
 
