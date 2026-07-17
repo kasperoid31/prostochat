@@ -209,10 +209,10 @@
 <img src="https://img.shields.io/badge/@kasper31-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 <a href="https://t.me/pro100chtik1">
-<img src="https://img.shields.io/badge/@pro100chtik1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/@neprostochtik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 <a href="https://t.me/pro100chtik">
-<img src="https://img.shields.io/badge/@pro100chtik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/@nepro100chtik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ---
