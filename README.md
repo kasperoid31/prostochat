@@ -208,10 +208,10 @@
 <a href="https://t.me/kasper31">
 <img src="https://img.shields.io/badge/@kasper31-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="https://t.me/pro100chtik1">
+<a href="https://t.me/neprostochtik">
 <img src="https://img.shields.io/badge/@neprostochtik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="https://t.me/pro100chtik">
+<a href="https://t.me/nepro100chtik">
 <img src="https://img.shields.io/badge/@nepro100chtik-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
